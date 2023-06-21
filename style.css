@@ -2,11 +2,13 @@
     background-color: black;
     color: aliceblue;
     text-align: center;
+    align-items: center;
 }
 
 .main {
     padding: 10% 10% 10% 10%;
     margin: auto;
+    padding: auto;
 }
 
 
@@ -45,7 +47,7 @@ button {
 
 @media (max-width:746px) {
     .main {
-        padding: 50% 5% 30% 5%;
+        padding: 70% 5% 30% 3%;
         margin: auto;
     }
 
