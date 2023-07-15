@@ -51,7 +51,7 @@ button:hover {
 
 
 
-@media (max-width:746px) {
+@media (max-width:800px) {
     .main {
         padding: 40% 4% 10% 2%;
         margin: auto;
